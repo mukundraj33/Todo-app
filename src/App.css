@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+
+}
+body{
+    background-color: black;
+}
+
+@media (max-width: 767px) {
+     .input1{
+      width: 79%;
+    }
+    .todo1{
+        width: 67%;
+    }
+   
+}
